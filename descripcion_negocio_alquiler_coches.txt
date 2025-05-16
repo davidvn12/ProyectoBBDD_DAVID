@@ -1,0 +1,21 @@
+Nombre del negocio: EMACoches S.L.
+
+Actividad principal:
+Empresa dedicada al alquiler de vehículos a corto y largo plazo.
+
+Clientes:
+Particulares y empresas que necesitan coches para movilidad temporal o viajes.
+
+Servicios:
+- Reserva online de vehículos.
+- Alquiler por horas, días o semanas.
+- Entrega y recogida en diferentes sucursales.
+- Opciones de seguro adicional, GPS, sillas infantiles, etc.
+- Gestión de pagos y facturación electrónica.
+
+Objetivos del sistema:
+- Registrar y gestionar información de clientes.
+- Registrar y mantener información de los vehículos disponibles.
+- Permitir y controlar las reservas de vehículos.
+- Controlar el estado de disponibilidad de los coches.
+- Registrar pagos y emitir facturas.
