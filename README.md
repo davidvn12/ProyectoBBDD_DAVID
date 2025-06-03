@@ -92,3 +92,20 @@ El objetivo es construir una base de datos **robusta, normalizada y eficiente**,
 
 
 ---
+
+ ProyectoBBDD_DAVID/
+├── 📄 Captura de pantalla 2025-06-03 222015.png -- diagrama 
+├── 📄 Captura de pantalla 2025-06-03 222128.png  -- diagrama
+├── 📄 Memoria Proyecto BBDD_.docx.pdf
+├── 📄 PROYECTO_BBDD
+├── 📄 Proyecto bases de datos.drawio
+├── 📄 README.md
+├── 📄 descripcion_negocio_alquiler_coches.txt
+
+## 🚀 Cómo usar el proyecto
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/davidvn12/ProyectoBBDD_DAVID.git
+
+---
