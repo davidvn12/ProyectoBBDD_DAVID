@@ -1,5 +1,5 @@
 # ProyectoBBDD_DAVID
-# 📊 Proyecto Diseño de Base de Datos para Cliente - Extremcar
+# Proyecto Diseño de Base de Datos para Cliente - Extremcar
 
 ## Descripción
 Este repositorio contiene el proyecto completo de diseño e implementación de una base de datos relacional para una empresa de alquiler de vehículos llamada **Extremcar**. El proyecto sigue todas las fases del desarrollo, desde el análisis de requisitos hasta la prueba y validación en **MySQL 8**.  
@@ -7,7 +7,7 @@ El objetivo es construir una base de datos **robusta, normalizada y eficiente**,
 
 ---
 
-## 📑 Tabla de Contenidos
+## Tabla de Contenidos
 
 - [Requisitos](#-requisitos)  
 - [Fases del Proyecto](#-fases-del-proyecto)  
@@ -24,7 +24,7 @@ El objetivo es construir una base de datos **robusta, normalizada y eficiente**,
 
 ---
 
-## 📝 Requisitos
+##  Requisitos
 
 - **MySQL Server 8.0 o superior**
 - **MySQL Workbench** (opcional para diseño y administración)
@@ -34,7 +34,7 @@ El objetivo es construir una base de datos **robusta, normalizada y eficiente**,
 
 ---
 
-## 🔄 Fases del Proyecto
+## Fases del Proyecto
 
 ### 1. Recolección de Requisitos
 - Simulación de entrevistas con el cliente
