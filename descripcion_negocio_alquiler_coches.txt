@@ -1,4 +1,4 @@
-Nombre del negocio: EMACoches S.L.
+Nombre del negocio: Extremcar
 
 Actividad principal:
 Empresa dedicada al alquiler de vehículos a corto y largo plazo.
