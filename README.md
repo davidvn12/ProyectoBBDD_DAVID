@@ -93,14 +93,17 @@ El objetivo es construir una base de datos **robusta, normalizada y eficiente**,
 
 ---
 
+
+estructura_repositorio:
  ProyectoBBDD_DAVID/
-├── 📄 Captura de pantalla 2025-06-03 222015.png -- diagrama 
-├── 📄 Captura de pantalla 2025-06-03 222128.png  -- diagrama
-├── 📄 Memoria Proyecto BBDD_.docx.pdf
-├── 📄 PROYECTO_BBDD
-├── 📄 Proyecto bases de datos.drawio
-├── 📄 README.md
-├── 📄 descripcion_negocio_alquiler_coches.txt
+  - archivo: "Captura de pantalla 2025-06-03 222015.png"
+  - archivo: "Captura de pantalla 2025-06-03 222128.png"
+  - archivo: "Memoria Proyecto BBDD_.docx.pdf"
+  - archivo: "PROYECTO_BBDD"
+  - archivo: "Proyecto bases de datos.drawio"
+  - archivo: "README.md"
+  - archivo: "descripcion_negocio_alquiler_coches.txt"
+
 
 ## 🚀 Cómo usar el proyecto
 
